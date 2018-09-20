@@ -1,17 +1,17 @@
 {
-	name: "dinero.js",
-	version: "1.4.0",
-	description: "An immutable library to create, calculate and format monetary values.",
-	author: "Sarah Dayan",
-	keywords: [
+	"name": "dinero.js",
+	"version": "1.4.0",
+	"description": "An immutable library to create, calculate and format monetary values.",
+	"author": "Sarah Dayan",
+	"keywords": [
 		"money",
 		"monetary",
 		"amount",
 		"immutable"
 	],
-	repository: "https://github.com/sarahdayan/dinero.js",
-	filename: "build/cjs/dinero.js",
-	license: "MIT",
+	"repository": "https://github.com/sarahdayan/dinero.js",
+	"filename": "build/cjs/dinero.js",
+	"license": "MIT",
 
 
 	"autoupdate": {
@@ -20,7 +20,7 @@
 		"fileMap": [{
 			"basePath": "",
 			"files": [
-				"build/cjs/dinero.js",
+				"build/cjs/dinero.js"
 			]
 		}]
 	},
