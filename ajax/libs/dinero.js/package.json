@@ -12,28 +12,11 @@
 	"repository": "https://github.com/sarahdayan/dinero.js",
 	"filename": "build/cjs/dinero.js",
 	"license": "MIT",
-
-
-	"autoupdate": {
-		"source": "git",
-		"target": "github.com:sarahdayan/dinero.js.git",
-		"fileMap": [{
-			"basePath": "",
-			"files": [
-				"build/cjs/dinero.js"
-			]
-		}]
-	},
-
-
-
 	"npmName": "dinero.js",
 	"npmFileMap": [{
-		"basePath": "",
+		"basePath": "build",
 		"files": [
 			"**/*"
 		]
 	}]
-
-
 }
