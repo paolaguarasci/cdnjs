@@ -12,7 +12,7 @@
 		"type": "git",
 		"url": "https://github.com/sarahdayan/dinero.js"
 	},
-	"filename": "build/umd/dinero.min.js",
+	"filename": "dinero.min.js",
 	"license": "MIT",
 	"npmName": "dinero.js",
 	"npmFileMap": [{
